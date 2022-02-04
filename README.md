@@ -8,6 +8,7 @@
 - Compatible with NodeJS, Javascript, Typescript, HTML etc....
 - Censors words from the string given.
 - Full Support and frequent bug fixes.
+- Supported Languages (English), More coming soon!
 
 
 
