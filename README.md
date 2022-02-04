@@ -1,5 +1,6 @@
 ![](https://www.psdstamps.com/wp-content/uploads/2019/11/grunge-censored-label-png-768x512.png)
-#Finds and Censors badwords from the given string.
+
+# Finds and Censors badwords from the given string.
 ### Features
 
 - Add/Remove words.
