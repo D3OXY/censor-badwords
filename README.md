@@ -13,7 +13,7 @@
 
 
 
-##Installation
+## Installation
 -------------
 `npm install censor-badwords`
 -------------
@@ -100,4 +100,4 @@ badwords.setdefaultbadwords()
 <a href="https://www.buymeacoffee.com/deoxy" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/default-orange.png" alt="Buy Me A Coffee" height="41" width="174"></a>
 <a href="https://github.com/D3OXY" target="_blank"><img src="https://w7.pngwing.com/pngs/711/176/png-transparent-github-inc-repository-source-code-github-mammal-cat-like-mammal-carnivoran-thumbnail.png" alt="Buy Me A Coffee" height="41" width="40"></a>
 ---------------
-###The End
+### The End
